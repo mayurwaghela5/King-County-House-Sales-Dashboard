@@ -1,6 +1,9 @@
 Overview:
 The King County House Sales Dashboard offers an intuitive visualization of housing market trends within King County, WA. Developed using Tableau, this interactive dashboard provides users with insightful data analysis and visualization tools to explore various aspects of house sales, including pricing trends, geographic distribution, property characteristics, and more.
 
+<img width="1440" alt="Screenshot 2024-03-22 at 1 03 28 AM" src="https://github.com/mayurwaghela5/King-County-House-Sales-Dashboard/assets/89163522/278b20de-10d8-440c-8064-2a1d9b5a1c49">
+
+
 Features:
 
     Daily Average House Sales Price Line Graph: This dynamic line graph illustrates the daily average house sales price within King County over the selected time frame, offering a clear depiction of pricing trends.
